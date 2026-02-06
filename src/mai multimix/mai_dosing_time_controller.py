@@ -1,9 +1,13 @@
-"""
-This file is part of the Python OPC UA examples of Eindhoven University of Technology. 
-The files of this project are licensed under the terms of GNU General Public License 
-version 3.0 (GPL v3.0) as published by the Free Software Foundation. For more information 
-and the LICENSE file, see <https://github.com/3DCP-TUe/Python-OPC-UA>.
-"""
+# SPDX-License-Identifier: GPL-3.0-or-later
+# This file is part of Python-OPC-UA.
+# Project: https://github.com/3DCP-TUe/Python-OPC-UA
+#
+# Copyright (c) 2024-2025 3D Concrete Printing Research Group at Eindhoven University of Technology
+#
+# Authors:
+#   - Arjen Deetman (2024-2025)
+#
+# For license details, see the LICENSE file in the project root.
 
 import asyncio
 import logging
