@@ -3,8 +3,7 @@
 This repository contains Python scripts for reading and writing values on the OPC UA servers installed on the machinery of the 3D concrete printer at Eindhoven University of Technology.
 
  **Note:**  
-> This repository is **not** under version control. It serves purely as a collection of example scripts that can be used as a starting point.  
-> Not all files are fully tested or guaranteed to be functional; however, they provide useful examples for developing custom controls, data logging functionality, and other OPC UA–related tooling.
+> This repository is **not** under version control. It serves purely as a collection of example scripts that can be used as a starting point. Not all files are fully tested or guaranteed to be functional; however, they provide useful examples for developing custom controls, data logging functionality, and other OPC UA–related tooling.
 
 All files make use of the library [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio).
 
