@@ -7,6 +7,11 @@ This repository contains Python scripts for reading and writing values on the OP
 
 All files make use of the library [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio).
 
+## Open science statement
+
+We are committed to the principles of open science to ensure that our work can be reproduced and built upon by others, by sharing detailed methodologies, data, and results generated with the unique equipment that is available in our lab. To spread Open Science, we encourage others to do the same to create an (even more) open and collaborative scientific community. 
+Since it took a lot of time and effort to make our data and software available, we license our software under the General Public License version 3 or later (free to use, with attribution, share with source code) and our data and documentation under CC BY-SA (free to use, with attribution, share-alike), which requires you to apply the same licenses if you use our resources and share its derivatives with others. 
+
 ## License
 Copyright (c) 2024-2026 [3D Concrete Printing Research Group at Eindhoven University of Technology](https://www.tue.nl/en/research/research-groups/structural-engineering-and-design/3d-concrete-printing)
 
